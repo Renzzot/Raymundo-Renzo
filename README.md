@@ -42,8 +42,6 @@ The following references shaped the visual and functional direction of this port
  
 - **[Brittany Chiang's Portfolio](https://brittanychiang.com/)** — Clean dark-themed layout with a clear information hierarchy. Reference for how to present projects and experience in a way that works for both recruiters and technical clients.
  
-- **[Linear.app](https://linear.app/)** — Not a portfolio, but a product interface that demonstrates how minimalism, motion, and typography can convey professionalism and trust. Inspiration for the overall aesthetic tone.
- 
 ---
  
 ## 🧠 Creative Process Documentation
